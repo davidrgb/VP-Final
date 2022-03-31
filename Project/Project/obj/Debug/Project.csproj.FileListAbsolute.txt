@@ -1,0 +1,12 @@
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\bin\Debug\Project.exe
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\bin\Debug\Project.pdb
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\obj\Debug\Project.exe
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\obj\Debug\Project.pdb
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\obj\Debug\Project.Home.resources
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\obj\Debug\Project.Compress.resources
+C:\Users\clank\Documents\UCO\Spr22\VP\project\Project\Project\obj\Debug\Project.Decompress.resources
